@@ -1,4 +1,4 @@
-# Retro Blog [lives-site](https://hr-retro-blog.netlify.app) [client-site-code](https://github.com/hrdelwar/retor-blog-client)
+# Retro Blog [lives-site](https://hr-retro-blog.netlify.app) [client-site-code](https://github.com/hrdelwar/retro-blog-client)
 
 ## Feature
 
