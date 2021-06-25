@@ -21,7 +21,7 @@ const client = new MongoClient(uri, {
 
 // fetch user
 const fetchUser = async (email) => {
-  const respose = await fetch(`https://young-badlands-81640.herokuapp.com/${email}`);
+  const respose = await fetch(`https://young-badlands-81640.herokuapp.com/getUser/${email}`);
   const result = await respose.json();
   return result;
 };
